@@ -1,6 +1,4 @@
 
-15
-
 #include "binary_trees.h"
 
 /**
